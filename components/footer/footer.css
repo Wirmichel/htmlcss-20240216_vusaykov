@@ -1,0 +1,26 @@
+.footer {
+    background: #F9FAFC;
+}
+
+.footer__title {
+    color: var(--Black, #212429);
+
+    /* h2 */
+    font-family: Inter;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px; /* 126.316% */
+}
+
+.footer__text {
+    color: var(--Black, #212429);
+    text-align: center;
+
+    /* p */
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+}

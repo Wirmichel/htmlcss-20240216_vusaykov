@@ -1,0 +1,14 @@
+.header {
+    background: #FFF;
+}
+
+.header__title {
+    color: var(--black);
+
+    /* h1 */
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 64px; /* 128% */
+}
